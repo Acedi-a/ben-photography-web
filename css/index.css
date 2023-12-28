@@ -74,6 +74,7 @@ body {
 
 #sesiones:hover{
     background-color: violet;
+    color: black;
 }
 
 #quince:hover{
@@ -196,6 +197,10 @@ body {
 
 .redes a:nth-child(4):hover i {
     color: black;
+}
+
+.redes a:nth-child(5):hover i {
+    color: red;
 }
 
 
